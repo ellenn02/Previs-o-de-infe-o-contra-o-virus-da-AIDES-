@@ -1,0 +1,12 @@
+Descrição do Problema e Contexto
+Objetivo: Desenvolver um modelo de machine learning para prever a infecção pelo vírus da AIDS com base em características e histórico médico dos pacientes.
+
+Contexto: O conjunto de dados contém informações de saúde e dados categóricos sobre pacientes diagnosticados com AIDS. A tarefa é construir um modelo de classificação binária para prever se um paciente está infectado ou não pelo vírus da AIDS. Este modelo ajudará na identificação precoce de infecções e na tomada de decisões clínicas.
+
+Arquivos Disponíveis:
+
+AIDS_Classification.csv
+AIDS_Classification_5000.csv
+AIDS_Classification_15000.csv
+AIDS_Classification_50000.csv
+Cada arquivo contém dados de diferentes tamanhos de conjuntos, permitindo avaliar o desempenho do modelo em diferentes escalas de dados.
