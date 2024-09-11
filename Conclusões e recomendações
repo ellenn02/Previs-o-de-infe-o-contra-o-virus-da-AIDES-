@@ -1,0 +1,10 @@
+Conclusões e Recomendações
+Conclusões:
+
+Avaliação do desempenho do modelo com base nas métricas mencionadas.
+Comparação de desempenho entre os diferentes tamanhos de conjunto de dados.
+Recomendações:
+
+Ajustar os hiperparâmetros do modelo para melhorar o desempenho.
+Explorar técnicas avançadas como ensemble learning ou tuning de modelos.
+Considerar a coleta de mais dados ou variáveis adicionais para melhorar a acurácia e a robustez do modelo.
