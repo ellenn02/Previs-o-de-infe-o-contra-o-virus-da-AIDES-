@@ -1,0 +1,14 @@
+Avaliação do Desempenho do Modelo
+Métricas de Avaliação:
+
+1 Acurácia: Proporção de previsões corretas.
+
+2 Sensibilidade (Recall): Capacidade do modelo de identificar pacientes infectados (verdadeiros positivos).
+
+3 Especificidade: Capacidade do modelo de identificar pacientes não infectados (verdadeiros negativos).
+
+4 Precisão: Proporção de previsões positivas corretas.
+
+5 F1-Score: Média harmônica entre precisão e sensibilidade.
+
+Relatório de Classificação: Gerar um relatório detalhado para cada classe para entender melhor o desempenho do modelo em termos de falsos positivos e falsos negativos.
