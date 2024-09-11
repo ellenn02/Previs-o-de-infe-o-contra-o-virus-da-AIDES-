@@ -1,0 +1,10 @@
+Análise Exploratória dos Dados
+A análise exploratória de dados (EDA) é crucial para entender a estrutura dos dados e identificar padrões, tendências e possíveis problemas.
+
+Passos da EDA:
+
+1 Carregamento dos Dados: Importar os dados dos arquivos CSV.
+2 Resumo Estatístico: Obter uma visão geral das estatísticas descritivas para cada variável.
+3 Distribuição das Classes: Verificar a distribuição de pacientes infectados e não infectados.
+4 Correlação entre Atributos: Analisar a correlação entre variáveis para identificar relações importantes.
+5 Visualizações: Criar gráficos (histogramas, box plots, heatmaps) para visualizar a distribuição dos dados e relações entre atributos.
