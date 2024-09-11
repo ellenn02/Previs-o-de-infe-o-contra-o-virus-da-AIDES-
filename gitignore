@@ -1,0 +1,65 @@
+
+### .gitignore
+
+```gitignore
+# Python
+*.pyc
+*.pyo
+__pycache__/
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data Files
+*.csv
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+Enunciado do Projeto
+Título: Desenvolvimento de um Modelo de Machine Learning para Previsão de Infecção pelo Vírus da AIDS
+
+Objetivo: O objetivo deste projeto é desenvolver um modelo de machine learning capaz de prever a infecção pelo vírus da AIDS com base em um conjunto de dados contendo características e histórico médico de pacientes. A previsão da infecção é uma tarefa de classificação binária que visa identificar se um paciente está infectado ou não pelo vírus da AIDS.
+
+Descrição do Problema: O projeto utiliza um conjunto de dados fornecido em quatro arquivos CSV, cada um contendo um número diferente de registros de pacientes:
+
+AIDS_Classification.csv
+AIDS_Classification_5000.csv
+AIDS_Classification_15000.csv
+AIDS_Classification_50000.csv
+Os dados incluem informações categóricas e estatísticas de saúde, como tempo para falha ou censura, indicador de tratamento, idade, peso, histórico médico (hemofilia, atividade homossexual, uso de drogas intravenosas), pontuação de Karnofsky, histórico de terapia antirretroviral, contagens de células CD4/CD8, raça, gênero, entre outros.
+
+Entregáveis:
+
+Descrição do Problema e Contexto: Um resumo do problema abordado e do contexto do projeto.
+Análise Exploratória dos Dados (EDA): Uma análise detalhada dos dados para compreender suas características e identificar padrões.
+Pré-processamento de Dados: Um processo de limpeza e preparação dos dados para o treinamento do modelo, incluindo tratamento de valores ausentes, codificação de variáveis categóricas e normalização.
+Descrição do Modelo de Machine Learning: Explicação dos modelos aplicados para a tarefa de classificação binária e suas configurações.
+Avaliação do Desempenho do Modelo: Avaliação do modelo utilizando métricas como acurácia, sensibilidade, especificidade, precisão e F1-score. Incluindo a geração de um relatório de classificação.
+Conclusões e Recomendações: Análise dos resultados obtidos e sugestões para melhorias e próximos passos.
+Métricas de Avaliação:
+
+Acurácia: Proporção de previsões corretas.
+Sensibilidade (Recall): Capacidade de identificar pacientes infectados.
+Especificidade: Capacidade de identificar pacientes não infectados.
+Precisão: Proporção de previsões positivas corretas.
+F1-Score: Média harmônica entre precisão e sensibilidade.
+Este projeto busca fornecer insights valiosos para a detecção precoce da infecção pelo vírus da AIDS e contribuir para melhores práticas no tratamento e prevenção da doença.
+
