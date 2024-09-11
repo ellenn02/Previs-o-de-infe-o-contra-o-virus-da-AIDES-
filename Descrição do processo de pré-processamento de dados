@@ -1,0 +1,11 @@
+Descrição do Processo de Pré-processamento de Dados
+Passos de Pré-processamento:
+
+
+1 Tratamento de Valores Ausentes: Identificar e tratar valores ausentes, substituindo-os ou removendo registros incompletos.
+
+2 Codificação de Dados Categóricos: Converter variáveis categóricas em variáveis numéricas usando técnicas como One-Hot Encoding ou Label Encoding.
+
+3 Normalização e Padronização: Normalizar ou padronizar as variáveis contínuas para melhorar a performance do modelo.
+
+4 Divisão dos Dados: Separar os dados em conjuntos de treinamento e teste para avaliar o desempenho do modelo.
