@@ -1,0 +1,14 @@
+Descrição do Modelo de Machine Learning Utilizado
+Modelo: Para a tarefa de classificação binária, diversos modelos podem ser aplicados. Alguns modelos comuns são:
+
+1 Regressão Logística: Simples e eficaz para problemas de classificação binária.
+
+2 Árvore de Decisão: Fácil de interpretar e pode capturar interações complexas entre atributos.
+
+3 Random Forest: Um ensemble de árvores de decisão que melhora a precisão e reduz o overfitting.
+
+4 Support Vector Machine (SVM): Eficaz em espaços de alta dimensão e para margens de separação claras.
+
+5 Gradient Boosting Machines (GBM): Melhora a performance através de um ensemble de modelos mais fracos.
+
+Escolha do Modelo: Dependendo dos resultados da EDA e da natureza dos dados, um ou mais dos modelos mencionados podem ser selecionados e ajustados.
