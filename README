@@ -1,0 +1,25 @@
+# Previsão de Infecção pelo Vírus da AIDS
+
+Este projeto visa desenvolver um modelo de machine learning para prever a infecção pelo vírus da AIDS utilizando dados categóricos e estatísticas de saúde de pacientes. O objetivo é construir um modelo de classificação binária para prever se um paciente está infectado ou não pelo vírus da AIDS, ajudando na identificação precoce e na tomada de decisões clínicas.
+
+## Arquivos do Projeto
+
+- `AIDS_Classification.csv` - Conjunto de dados com informações de pacientes.
+- `AIDS_Classification_5000.csv` - Conjunto de dados com 5000 registros.
+- `AIDS_Classification_15000.csv` - Conjunto de dados com 15000 registros.
+- `AIDS_Classification_50000.csv` - Conjunto de dados com 50000 registros.
+
+## Etapas do Projeto
+
+1. **Descrição do Problema e Contexto**: Definição do objetivo e contexto do projeto.
+2. **Análise Exploratória dos Dados (EDA)**: Exploração e visualização dos dados para entender suas características.
+3. **Pré-processamento de Dados**: Limpeza e preparação dos dados para treinamento do modelo.
+4. **Descrição do Modelo de Machine Learning**: Modelos aplicados para a tarefa de classificação binária.
+5. **Avaliação do Desempenho do Modelo**: Métricas utilizadas para avaliar o desempenho do modelo.
+6. **Conclusões e Recomendações**: Resultados e sugestões para futuras melhorias.
+
+## Uso
+
+1. **Clonar o Repositório**:
+   ```bash
+   git clone https://github.com/username/repo-name.git
